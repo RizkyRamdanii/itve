@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #60a5fa;
+	font-family: 'Poppins', sans-serif;
+	color: #0f172a;
+}
+
+h1,
+h2 {
+	font-family: 'Cinzel', sans-serif;
+}
+
+span {
+	font-family: 'Jetbrains Mono', sans-serif;
+}
+
+p {
+	font-family: 'Poppins', sans-serif;
+}
