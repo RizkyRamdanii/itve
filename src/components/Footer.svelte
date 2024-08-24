@@ -9,7 +9,7 @@
 	}
 </script>
 
-<footer class="footer bg-blue-400 text-base-content p-10">
+<footer class="footer bg-blue-400 text-black p-10">
 	<nav>
 		<h6 class="footer-title">Services</h6>
 		<a href="/faq" class="link link-hover">FAQs</a>
@@ -27,7 +27,7 @@
 		>
 	</nav>
 </footer>
-<footer class="footer bg-blue-400 text-base-content border-blue-200 border-t-2 px-10 py-4">
+<footer class="footer bg-blue-400 text-black border-blue-200 border-t-2 px-10 py-4">
 	<aside class="grid-flow-col items-center">
 		<svg
 			width="24"
